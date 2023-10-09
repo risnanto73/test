@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Val Balok</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirmation_password">Confirmation Password</string>
+    <string name="register">Register</string>
+    <string name="biology_test">Biology Test</string>
+    <string name="monday_12th_april_2021">Monday, 12th April 2021</string>
+</resources>
